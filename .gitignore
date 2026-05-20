@@ -1,0 +1,17 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Fichiers trop volumineux pour GitHub (>100MB)
+Fichier_Principal_pedago_anonym.csv
+
+# Config locale Claude Code
+.claude/

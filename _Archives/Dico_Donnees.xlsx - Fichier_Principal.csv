@@ -1,0 +1,21 @@
+NOM,TYPE,DESCRIPTION
+LINE_TYPE,String,"Type de l'acquisition T=Terminal, M=Mobile, I=Internet"
+PERIOD_YYYY,Integer,Année de l'acquisition
+PERIOD_MM,Integer,Mois de l'acquisition
+ORDER_SHOP_CD,String,Identifiant de la boutique dans laquelle l'acquisition a été faite
+COORD_X,Integer,Coordonnées X du client en Lambert II étendu
+COORD_Y,Integer,Coordonnées Y du client en Lambert II étendu
+IRIS2000_CD,String,IRIS 2000 d'habitat du clients (données Insee)
+PERSON_SALUTATION_CD,String,Civilités du clients
+PERSON_BIRTH_DT_Year,Integer,Année de naissance du client
+INSEE_NB,String,Code insee de la commune du client
+NET_ZONE_IN,String,"Présence de la concurrence en fibre (voir onglet ""NET_ZONE_IN"")"
+DENSE_ZONE_IN,String,"Densité de la zone géograpique (voir onglet ""DENSE_ZONE_IN"")"
+DEPRTMNT_ID,String,Département du client
+POSTAL_CD,String,Code postal du client
+CITY_LN,String,Commune du client
+ZONE,String,Découpage géographique de la France en 10 zones en fonction du département
+Geolife,String,Segmentation socio-demo fine en fonction de la zone géographique du client
+Geolife_AGG,String,Segmentation socio-demo aggrégé en fonction de la zone géographique du client
+,,
+Nb enregistrements,"  3,285,724 ",

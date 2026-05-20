@@ -1,0 +1,17 @@
+JOURNAL DE NETTOYAGE — Projet TELECOM Groupe 5 SUD-EST
+============================================================
+[INIT] Fichier principal brut : 3,258,114 lignes
+[INIT] COORD_BQT brut         : 1042 lignes
+[INIT] LIB_BQT brut           : 3435 lignes
+[ZONE] Filtre 5_SUD_EST : 326,478 lignes conservées (2,931,636 supprimées)
+[DOUBLONS] 81107 lignes 100% identiques supprimées
+[ORDER_SHOP_CD] 0 lignes sans code boutique supprimées
+[ORDER_SHOP_CD] Nettoyage espaces + casse appliqué sur les 3 tables
+[PERIOD] Colonne PERIOD créée (datetime) de 2021-10-01 à 2022-12-01
+[BIRTH] 18602 lignes supprimées (décennie hors plage 1920-2010)
+[CITY_LN] 92 lignes sans ville supprimées
+[CITY_LN] Normalisation casse appliquée
+[GEOLIFE] 0 nulls imputés par 'Non renseigné'
+[COORD] 0 boutiques en doublon supprimées
+[COORD] 84 boutiques sans coordonnées supprimées
+[LIB] 0 doublons supprimés
