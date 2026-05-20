@@ -10,7 +10,7 @@ __pycache__/
 .AppleDouble
 .LSOverride
 
-# Fichiers trop volumineux pour GitHub (>100MB)
+# Fichiers trop volumineux pour GitHub (>100MB) - utiliser le .zip
 Fichier_Principal_pedago_anonym.csv
 
 # Config locale Claude Code
